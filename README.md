@@ -6,3 +6,4 @@
 
 ### Image used in the file [Stan Lee.jpg](https://github.com/Pragya2056/Tribute-Page/blob/main/img/Stan%20Lee.jpg)
 
+.
