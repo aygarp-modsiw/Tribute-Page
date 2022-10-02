@@ -5,9 +5,12 @@
     margin: 0;
 }
 
+/*Ends For all*/
+
 /*Header*/
+/*The main topic*/
 #gandalf {
-    padding-top: 10px;
+    padding-top: 300px;
     padding-bottom: 10px;
     height: 400px;
     font-size: 100px;
@@ -15,15 +18,19 @@
     color: azure;
     text-transform: uppercase;
     text-align: center;
+    position: relative;
 }
 
 #title {
     font-size: 60px;
 }
 
-#img {
-    width: 400px;
-    float: right;
+/*End for the main topic*/
+
+/*Navigation*/
+#navigation {
+    background-color: rgb(12, 11, 11);
+    width: 100%;
 }
 
 ul {
@@ -31,10 +38,6 @@ ul {
     display: flex;
     justify-content: space-between;
     width: 100%;
-}
-
-#jump {
-    background-color: rgb(12, 11, 11);
 }
 
 li {
