@@ -2,7 +2,7 @@
 
 Dr. Spencer "Spence" Reid is a Supervisory Special Agent with the BAU. He is hailed as a genius and an autodidact.
 
-![Spencer Reid](/Spencer.jpg)
+![Spencer Reid](/Images/Spencer.jpg)
 
 1. HTML Code is in the file [index.html](https://github.com/Pragya2056/Tribute-Page/blob/main/index.html)
 
