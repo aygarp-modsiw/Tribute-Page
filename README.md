@@ -4,11 +4,7 @@ Dr. Spencer "Spence" Reid is a Supervisory Special Agent with the BAU. He is hai
 
 ![Spencer Reid](/Images/Spencer.jpg)
 
-1. HTML Code is in the file [index.html](https://github.com/Pragya2056/Tribute-Page/blob/main/index.html)
-
-2. CSS Code is in the file [Style.CSS](https://github.com/Pragya2056/Tribute-Page/blob/main/Style.css)
-
-3. The paragraphs in the page was referenced from [Criminal Minds Fandom Website](https://criminalminds.fandom.com/wiki/Spencer_Reid)
+The paragraphs in the page was referenced from [Criminal Minds Fandom Website](https://criminalminds.fandom.com/wiki/Spencer_Reid)
 
 Any kind of feedback or contribution is welcome.
 
